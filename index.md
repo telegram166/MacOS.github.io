@@ -13,7 +13,7 @@
 
 #### 3、一些优秀的软件分享论坛：
 
-- [吾爱破解](https://t.me/Balancer996/96562)
+- [吾爱破解](https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=193)
 - [威锋](https://bbs.feng.com/thread-htm-fid-68.html)
 
 ### 二、黑果篇

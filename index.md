@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+### 一、软件篇
+#### 1、实用软件汇总
 
-You can use the [editor on GitHub](https://github.com/telegram166/MacOS.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [Awesome Mac](https://wangchujiang.com/awesome-mac/index.zh.html)
+- [setapp-Mac软件合集订阅](https://setapp.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 2、一些国内外优秀的软件分享站
 
-### Markdown
+- [xclient](http://xclient.info/?_=599e9726d35da48802f2bfd279461089)
+- [Nmac Ked](https://nmac.to/)
+- [AppKed](https://www.macbed.com/)
+- [mac-torrents](http://mac-torrents.com/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 3、一些优秀的软件分享论坛：
 
-```markdown
-Syntax highlighted code block
+- [吾爱破解](https://t.me/Balancer996/96562)
+- [威锋](https://bbs.feng.com/thread-htm-fid-68.html)
 
-# Header 1
-## Header 2
-### Header 3
+### 二、黑果篇
+ 
+- [tonymacx86](www.tonymacx86.com)
+- [远景论坛](http://mac.pcbeta.com/forum-13-1.html)
+- [威锋x86](https://bbs.feng.com/thread-htm-fid-68.html)
+- [黑苹果乐园](https://imac.hk/)
+- [硬件efi](https://github.com/daliansky/Hackintosh)
+- [Mojave黑果硬件选择](http://t.cn/EoxbMGN)
 
-- Bulleted
-- List
+### 三、macOS使用篇
 
-1. Numbered
-2. List
+- [威锋讨论区](https://bbs.feng.com/thread-htm-fid-68.html)
+- [少数派](https://sspai.com)
+- [白果拆机](https://www.ifixit.com/)
+- [购买mbp须知](https://t.me/Balancer996/104)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/telegram166/MacOS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

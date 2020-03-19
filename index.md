@@ -18,7 +18,7 @@
 
 ### 二、黑果篇
  
-- [tonymacx86](www.tonymacx86.com)
+- [tonymacx86](https://www.tonymacx86.com)
 - [远景论坛](http://mac.pcbeta.com/forum-13-1.html)
 - [威锋x86](https://bbs.feng.com/thread-htm-fid-68.html)
 - [黑苹果乐园](https://imac.hk/)
